@@ -1,7 +1,7 @@
 //
 // File: Gyepes.java
 //Author: Baráth Dávid
-// Copyright: 2021, Baráth Dávid
+// Copyright: 2022, Baráth Dávid
 // Group: Szoft 1/N
 // Date: 2022-02-22
 // Github: https://github.com/david587/
