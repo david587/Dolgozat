@@ -1,5 +1,5 @@
 //
-// File: ButtonPanel.java
+// File: Gyepes.java
 //Author: Baráth Dávid
 // Copyright: 2021, Baráth Dávid
 // Group: Szoft 1/N
