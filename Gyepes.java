@@ -25,12 +25,13 @@ public class Gyepes {
 	System.out.print("Adja meg a sugárt(r):");
 	double sugar = sc.nextDouble();
 	
-	double terulet=Math.pow(sugar,2)*Math.PI;
-	double terulet_fele=terulet/2;
-	double osszeg = terulet_fele*forint;
+	System.out.println("------------------------------------------------------------------");
 	
-	System.out.println(terulet_fele+"négyzetméter gyeptéglára van szükség");
-	System.out.println(osszeg+"FT-ba kerül ");
+	double terulet=Math.pow(sugar,2)*Math.PI;
+	double osszeg = terulet*forint;
+	
+	System.out.println(terulet+"négyzetméter gyeptéglára van szükség");
+	System.out.println(osszeg+"Ft-ba kerül ");
 	
 	
 	
